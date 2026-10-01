@@ -1,0 +1,16 @@
+{
+  "name": "FaculFood — PUC-Rio",
+  "short_name": "FaculFood",
+  "description": "Peça nos restaurantes da PUC-Rio e retire no balcão, sem fila.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf6f2",
+  "theme_color": "#1b2a4a",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

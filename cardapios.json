@@ -1,0 +1,1230 @@
+{
+  "fonte": "Cardápios fotografados no campus PUC-Rio (5 restaurantes reais) + 4 afiliados de exemplo (fictícios, marcados)",
+  "geradoEm": "2026-09-30T22:58:59.672Z",
+  "restaurantes": [
+    {
+      "id": "cardeal",
+      "nome": "Cardeal Cafés & Lanches",
+      "tipo": "Café e lanches",
+      "local": "Campus PUC-Rio",
+      "exemplo": false,
+      "status": "aprovado",
+      "itens": [
+        {
+          "categoria": "Cafés",
+          "titulo": "Café expresso",
+          "subtitulo": "Grão arábica, xícara de 50 ml",
+          "preco": 6.9,
+          "obs": null,
+          "tags": [
+            "cafe"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Cafés",
+          "titulo": "Expresso duplo",
+          "subtitulo": "Dose dupla para as provas",
+          "preco": 8.9,
+          "obs": null,
+          "tags": [
+            "cafe"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Cafés",
+          "titulo": "Café com leite",
+          "subtitulo": "Leite vaporizado",
+          "preco": 8.5,
+          "obs": null,
+          "tags": [
+            "cafe"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Cafés",
+          "titulo": "Café pingado",
+          "subtitulo": "",
+          "preco": 6.9,
+          "obs": null,
+          "tags": [
+            "cafe"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Doces",
+          "titulo": "Brownie caseiro",
+          "subtitulo": "Chocolate meio amargo, feito na casa",
+          "preco": 11.5,
+          "obs": null,
+          "tags": [
+            "doce"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Doces",
+          "titulo": "Cookie caseiro",
+          "subtitulo": "Gotas de chocolate",
+          "preco": 11.5,
+          "obs": null,
+          "tags": [
+            "doce"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Doces",
+          "titulo": "Palha italiana",
+          "subtitulo": "",
+          "preco": 11.5,
+          "obs": null,
+          "tags": [
+            "doce"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Doces",
+          "titulo": "Mousse da casa",
+          "subtitulo": "",
+          "preco": 11.5,
+          "obs": null,
+          "tags": [
+            "doce"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Doces",
+          "titulo": "Salada de frutas",
+          "subtitulo": "Frutas da estação picadas na hora",
+          "preco": 13.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "salada",
+            "doce"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Doces",
+          "titulo": "Yogo natural",
+          "subtitulo": "Iogurte natural com granola",
+          "preco": 16.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "doce"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Doces",
+          "titulo": "Yogo 1 ou 2 toppings",
+          "subtitulo": "",
+          "preco": 18.5,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "doce"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Lanches",
+          "titulo": "Crepe",
+          "subtitulo": "Recheios salgados ou doces",
+          "preco": 18.9,
+          "obs": "a partir de",
+          "tags": [
+            "lanche",
+            "doce"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Lanches",
+          "titulo": "Tapioca",
+          "subtitulo": "Recheio à escolha no balcão",
+          "preco": 14.9,
+          "obs": "a partir de",
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Lanches",
+          "titulo": "Omelete",
+          "subtitulo": "",
+          "preco": 20.9,
+          "obs": "a partir de",
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Lanches",
+          "titulo": "Hambúrguer de forno",
+          "subtitulo": "Pão macio recheado, assado no forno",
+          "preco": 14.9,
+          "obs": null,
+          "tags": [
+            "burger",
+            "fastfood",
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Lanches",
+          "titulo": "Pão de queijo (8und)",
+          "subtitulo": "Quentinho, saído do forno",
+          "preco": 11.5,
+          "obs": null,
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Lanches",
+          "titulo": "Pão de queijo (12und)",
+          "subtitulo": "",
+          "preco": 13.9,
+          "obs": null,
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Lanches",
+          "titulo": "Quiche (fatia)",
+          "subtitulo": "",
+          "preco": 19.9,
+          "obs": null,
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Lanches",
+          "titulo": "Empadão (fatia)",
+          "subtitulo": "",
+          "preco": 19.9,
+          "obs": null,
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Combos",
+          "titulo": "Matte / café expresso c/ pão de queijo (8und)",
+          "subtitulo": "",
+          "preco": 16.9,
+          "obs": null,
+          "tags": [
+            "lanche",
+            "cafe"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Combos",
+          "titulo": "Matte / café expresso c/ pão de queijo (12und)",
+          "subtitulo": "",
+          "preco": 18.9,
+          "obs": null,
+          "tags": [
+            "lanche",
+            "cafe"
+          ],
+          "declarado": []
+        }
+      ]
+    },
+    {
+      "id": "namedida",
+      "nome": "Na Medida",
+      "tipo": "Saudável e pratos",
+      "local": "Campus PUC-Rio",
+      "exemplo": false,
+      "status": "aprovado",
+      "itens": [
+        {
+          "categoria": "Monte seu prato (c/ 2 acompanhamentos)",
+          "titulo": "Filé mignon grelhado",
+          "subtitulo": "Com 2 acompanhamentos da vitrine",
+          "preco": 51.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Monte seu prato (c/ 2 acompanhamentos)",
+          "titulo": "Salmão grelhado",
+          "subtitulo": "Com 2 acompanhamentos da vitrine",
+          "preco": 49.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Monte seu prato (c/ 2 acompanhamentos)",
+          "titulo": "Filé de frango grelhado",
+          "subtitulo": "Com 2 acompanhamentos da vitrine",
+          "preco": 37.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Monte seu prato (c/ 2 acompanhamentos)",
+          "titulo": "Quiche",
+          "subtitulo": "",
+          "preco": 36.5,
+          "obs": null,
+          "tags": [
+            "lanche",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Monte seu prato (c/ 2 acompanhamentos)",
+          "titulo": "Empadão",
+          "subtitulo": "",
+          "preco": 36.5,
+          "obs": null,
+          "tags": [
+            "lanche",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Monte seu prato (c/ 2 acompanhamentos)",
+          "titulo": "Omelete",
+          "subtitulo": "",
+          "preco": 35.5,
+          "obs": null,
+          "tags": [
+            "lanche",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sugestão do chef",
+          "titulo": "Prato especial do dia",
+          "subtitulo": "Consulte o quadro do dia",
+          "preco": 35.9,
+          "obs": "consulte o quadro",
+          "tags": [
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Massa na medida",
+          "titulo": "Penne ao molho (branco ou sugo)",
+          "subtitulo": "Escolha o molho no balcão",
+          "preco": 29.5,
+          "obs": null,
+          "tags": [
+            "prato",
+            "massa"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Massa na medida",
+          "titulo": "Penne c/ frango grelhado",
+          "subtitulo": "",
+          "preco": 36.5,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "prato",
+            "massa"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Massa na medida",
+          "titulo": "Penne c/ mignon grelhado",
+          "subtitulo": "",
+          "preco": 46.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "prato",
+            "massa"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Omelete na medida",
+          "titulo": "Omelete da casa",
+          "subtitulo": "",
+          "preco": 20.9,
+          "obs": "a partir de",
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sugestão de lanche",
+          "titulo": "Quiche (fatia)",
+          "subtitulo": "",
+          "preco": 19.9,
+          "obs": null,
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sugestão de lanche",
+          "titulo": "Empadão (fatia)",
+          "subtitulo": "",
+          "preco": 19.9,
+          "obs": null,
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sugestão de lanche",
+          "titulo": "Tapioca recheada",
+          "subtitulo": "",
+          "preco": 14.9,
+          "obs": "a partir de",
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sugestão de lanche",
+          "titulo": "Crepe recheado",
+          "subtitulo": "",
+          "preco": 18.9,
+          "obs": "a partir de",
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Salada na medida",
+          "titulo": "Salada — escolha 2 opções da vitrine",
+          "subtitulo": "Monte com as saladas do dia",
+          "preco": 24.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "salada"
+          ],
+          "declarado": []
+        }
+      ]
+    },
+    {
+      "id": "soba",
+      "nome": "Soba Sushi",
+      "tipo": "Japonês",
+      "local": "Campus PUC-Rio",
+      "exemplo": false,
+      "status": "aprovado",
+      "itens": [
+        {
+          "categoria": "Sashimis",
+          "titulo": "Sashimi de salmão 6pç",
+          "subtitulo": "Fatias de salmão fresco",
+          "preco": 24.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sashimis",
+          "titulo": "Sashimi de salmão 10pç",
+          "subtitulo": "",
+          "preco": 36.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sashimis",
+          "titulo": "Sashimi salmão toast 6pç",
+          "subtitulo": "",
+          "preco": 25.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sashimis",
+          "titulo": "Sashimi salmão toast 10pç",
+          "subtitulo": "",
+          "preco": 37.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Temakis",
+          "titulo": "Temaki salmão",
+          "subtitulo": "Cone de alga com arroz e salmão",
+          "preco": 27.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Temakis",
+          "titulo": "Temaki salmão skin",
+          "subtitulo": "",
+          "preco": 24.9,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Temakis",
+          "titulo": "Temaki filadélfia",
+          "subtitulo": "",
+          "preco": 28.9,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Temakis",
+          "titulo": "Temaki hot filadélfia",
+          "subtitulo": "Empanado, com cream cheese",
+          "preco": 29.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "fastfood"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Temakis",
+          "titulo": "Temaki hot empanado",
+          "subtitulo": "",
+          "preco": 30.5,
+          "obs": null,
+          "tags": [
+            "japones",
+            "fastfood"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Rolls",
+          "titulo": "Roll salmão",
+          "subtitulo": "",
+          "preco": 28.9,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Rolls",
+          "titulo": "Roll salmão skin",
+          "subtitulo": "",
+          "preco": 25.9,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Rolls",
+          "titulo": "Roll filadélfia",
+          "subtitulo": "Salmão e cream cheese, 8 peças",
+          "preco": 29.9,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Rolls",
+          "titulo": "Roll filadélfia tartar",
+          "subtitulo": "",
+          "preco": 33.5,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Rolls",
+          "titulo": "Roll hot filadélfia",
+          "subtitulo": "Empanado, 10 peças",
+          "preco": 32.5,
+          "obs": null,
+          "tags": [
+            "japones",
+            "fastfood"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Rolls",
+          "titulo": "Roll hot tartar",
+          "subtitulo": "",
+          "preco": 35.5,
+          "obs": null,
+          "tags": [
+            "japones",
+            "fastfood"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sushis",
+          "titulo": "Sushi salmão 6pç",
+          "subtitulo": "",
+          "preco": 23.9,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sushis",
+          "titulo": "Sushi salmão 10pç",
+          "subtitulo": "",
+          "preco": 35.9,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Big rolls",
+          "titulo": "Big roll salmão",
+          "subtitulo": "",
+          "preco": 29.9,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Big rolls",
+          "titulo": "Big roll salmão skin",
+          "subtitulo": "",
+          "preco": 26.9,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Big rolls",
+          "titulo": "Big roll filadélfia",
+          "subtitulo": "",
+          "preco": 32.5,
+          "obs": null,
+          "tags": [
+            "japones"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Big rolls",
+          "titulo": "Big roll hot filadélfia",
+          "subtitulo": "",
+          "preco": 33.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "fastfood"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Yakisoba (acompanha legumes)",
+          "titulo": "Yakisoba de salmão",
+          "subtitulo": "",
+          "preco": 39.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Yakisoba (acompanha legumes)",
+          "titulo": "Yakisoba de carne",
+          "subtitulo": "Macarrão oriental, carne e legumes",
+          "preco": 35.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Yakisoba (acompanha legumes)",
+          "titulo": "Yakisoba de frango",
+          "subtitulo": "",
+          "preco": 33.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Yakisoba (acompanha legumes)",
+          "titulo": "Yakisoba misto (carne e frango)",
+          "subtitulo": "",
+          "preco": 34.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel",
+            "lanche",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Yakisoba (acompanha legumes)",
+          "titulo": "Yakisoba de legumes",
+          "subtitulo": "Macarrão oriental com legumes salteados",
+          "preco": 29.9,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Pokes",
+          "titulo": "Poke de salmão",
+          "subtitulo": "Arroz, salmão, legumes e molho da casa",
+          "preco": 36.5,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel",
+            "salada",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Pokes",
+          "titulo": "Poke salmão toast",
+          "subtitulo": "",
+          "preco": 37.5,
+          "obs": null,
+          "tags": [
+            "japones",
+            "saudavel",
+            "salada"
+          ],
+          "declarado": []
+        }
+      ]
+    },
+    {
+      "id": "strogonoff",
+      "nome": "Vai um Strogonoff",
+      "tipo": "Pratos",
+      "local": "Campus PUC-Rio",
+      "exemplo": false,
+      "status": "aprovado",
+      "itens": [
+        {
+          "categoria": "Strogonoff (acompanha arroz e batata palha)",
+          "titulo": "Strogonoff de frango",
+          "subtitulo": "Acompanha arroz e batata palha",
+          "preco": 17,
+          "obs": null,
+          "tags": [
+            "doce",
+            "prato",
+            "strogonoff"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Strogonoff (acompanha arroz e batata palha)",
+          "titulo": "Strogonoff de carne",
+          "subtitulo": "Acompanha arroz e batata palha",
+          "preco": 20,
+          "obs": null,
+          "tags": [
+            "doce",
+            "prato",
+            "strogonoff"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Strogonoff (acompanha arroz e batata palha)",
+          "titulo": "Strogonoff de abobrinha",
+          "subtitulo": "Acompanha arroz e batata palha",
+          "preco": 14,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "doce",
+            "prato",
+            "strogonoff"
+          ],
+          "declarado": []
+        }
+      ]
+    },
+    {
+      "id": "acai",
+      "nome": "Açaí do Wall",
+      "tipo": "Açaí e doces",
+      "local": "Campus PUC-Rio",
+      "exemplo": false,
+      "status": "aprovado",
+      "itens": [
+        {
+          "categoria": "Açaí",
+          "titulo": "Açaí 200 ml",
+          "subtitulo": "",
+          "preco": 12,
+          "obs": null,
+          "tags": [
+            "doce",
+            "acai"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Açaí",
+          "titulo": "Açaí 300 ml",
+          "subtitulo": "Monte com 2 complementos",
+          "preco": 15,
+          "obs": null,
+          "tags": [
+            "doce",
+            "acai"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Açaí",
+          "titulo": "Açaí 400 ml",
+          "subtitulo": "",
+          "preco": 18,
+          "obs": null,
+          "tags": [
+            "doce",
+            "acai"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Açaí",
+          "titulo": "Açaí 500 ml",
+          "subtitulo": "Monte com 3 complementos",
+          "preco": 20,
+          "obs": null,
+          "tags": [
+            "doce",
+            "acai"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Açaí",
+          "titulo": "Açaí 770 ml",
+          "subtitulo": "",
+          "preco": 27,
+          "obs": null,
+          "tags": [
+            "doce",
+            "acai"
+          ],
+          "declarado": []
+        }
+      ]
+    },
+    {
+      "id": "exburger",
+      "nome": "Pilotis Burger (exemplo)",
+      "tipo": "Hambúrguer",
+      "local": "Pilotis (exemplo)",
+      "exemplo": true,
+      "status": "aprovado",
+      "itens": [
+        {
+          "categoria": "Burgers",
+          "titulo": "Hambúrguer clássico",
+          "subtitulo": "Blend 150 g, queijo, alface e tomate",
+          "preco": 24.9,
+          "obs": null,
+          "tags": [
+            "burger",
+            "fastfood",
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Burgers",
+          "titulo": "Cheeseburger duplo",
+          "subtitulo": "2 blends, cheddar e picles",
+          "preco": 31.9,
+          "obs": null,
+          "tags": [
+            "burger",
+            "fastfood",
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Burgers",
+          "titulo": "Hambúrguer de frango",
+          "subtitulo": "Frango empanado e maionese da casa",
+          "preco": 23.9,
+          "obs": null,
+          "tags": [
+            "burger",
+            "fastfood",
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Burgers",
+          "titulo": "Burger vegetariano de grão-de-bico",
+          "subtitulo": "Vegetariano declarado pela loja",
+          "preco": 25.9,
+          "obs": null,
+          "tags": [
+            "burger",
+            "fastfood",
+            "lanche",
+            "vegetariano"
+          ],
+          "declarado": [
+            "vegetariano"
+          ]
+        },
+        {
+          "categoria": "Acompanhamentos",
+          "titulo": "Batata frita",
+          "subtitulo": "Porção individual",
+          "preco": 12.9,
+          "obs": null,
+          "tags": [
+            "burger",
+            "fastfood",
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Acompanhamentos",
+          "titulo": "Onion rings",
+          "subtitulo": "Anéis de cebola empanados",
+          "preco": 14.9,
+          "obs": null,
+          "tags": [
+            "fastfood"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Bebidas",
+          "titulo": "Milkshake de chocolate",
+          "subtitulo": "400 ml",
+          "preco": 17.9,
+          "obs": null,
+          "tags": [
+            "doce"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Bebidas",
+          "titulo": "Refrigerante lata",
+          "subtitulo": "350 ml",
+          "preco": 6.5,
+          "obs": null,
+          "tags": [],
+          "declarado": []
+        }
+      ]
+    },
+    {
+      "id": "exbowl",
+      "nome": "Verde Bowl (exemplo)",
+      "tipo": "Saudável",
+      "local": "Ala Kennedy (exemplo)",
+      "exemplo": true,
+      "status": "aprovado",
+      "itens": [
+        {
+          "categoria": "Bowls",
+          "titulo": "Bowl de frango grelhado",
+          "subtitulo": "Arroz integral, frango, legumes e molho de iogurte",
+          "preco": 32.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "salada",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Bowls",
+          "titulo": "Bowl vegano de quinoa",
+          "subtitulo": "Vegano declarado pela loja: quinoa, grão-de-bico e legumes",
+          "preco": 29.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "salada",
+            "vegetariano"
+          ],
+          "declarado": [
+            "vegano",
+            "vegetariano"
+          ]
+        },
+        {
+          "categoria": "Bowls",
+          "titulo": "Bowl de salmão",
+          "subtitulo": "Arroz, salmão, pepino e gergelim",
+          "preco": 38.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "salada",
+            "prato"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Saladas",
+          "titulo": "Salada caesar",
+          "subtitulo": "Alface, frango, parmesão e croutons",
+          "preco": 26.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "salada"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Saladas",
+          "titulo": "Salada tropical",
+          "subtitulo": "Folhas, manga, palmito e castanhas",
+          "preco": 24.9,
+          "obs": null,
+          "tags": [
+            "saudavel",
+            "salada"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Sucos",
+          "titulo": "Suco verde",
+          "subtitulo": "Couve, limão, gengibre e maçã",
+          "preco": 12.9,
+          "obs": null,
+          "tags": [],
+          "declarado": []
+        },
+        {
+          "categoria": "Sucos",
+          "titulo": "Suco de laranja",
+          "subtitulo": "Natural, 400 ml",
+          "preco": 9.9,
+          "obs": null,
+          "tags": [
+            "saudavel"
+          ],
+          "declarado": []
+        }
+      ]
+    },
+    {
+      "id": "expastel",
+      "nome": "Pastel da Vila (exemplo)",
+      "tipo": "Salgados",
+      "local": "Vila dos Diretórios (exemplo)",
+      "exemplo": true,
+      "status": "aprovado",
+      "itens": [
+        {
+          "categoria": "Pastéis",
+          "titulo": "Pastel de carne",
+          "subtitulo": "Carne moída temperada",
+          "preco": 9.9,
+          "obs": null,
+          "tags": [],
+          "declarado": []
+        },
+        {
+          "categoria": "Pastéis",
+          "titulo": "Pastel de queijo",
+          "subtitulo": "Muçarela derretida",
+          "preco": 8.9,
+          "obs": null,
+          "tags": [],
+          "declarado": []
+        },
+        {
+          "categoria": "Pastéis",
+          "titulo": "Pastel de palmito",
+          "subtitulo": "Palmito e requeijão",
+          "preco": 9.9,
+          "obs": null,
+          "tags": [],
+          "declarado": []
+        },
+        {
+          "categoria": "Salgados",
+          "titulo": "Coxinha",
+          "subtitulo": "Frango com catupiry",
+          "preco": 7.5,
+          "obs": null,
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Salgados",
+          "titulo": "Enroladinho de salsicha",
+          "subtitulo": "Assado",
+          "preco": 6.9,
+          "obs": null,
+          "tags": [
+            "lanche",
+            "cafe"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Salgados",
+          "titulo": "Pão de queijo recheado",
+          "subtitulo": "Com requeijão",
+          "preco": 8.5,
+          "obs": null,
+          "tags": [
+            "lanche"
+          ],
+          "declarado": []
+        },
+        {
+          "categoria": "Bebidas",
+          "titulo": "Caldo de cana",
+          "subtitulo": "300 ml",
+          "preco": 8,
+          "obs": null,
+          "tags": [],
+          "declarado": []
+        },
+        {
+          "categoria": "Bebidas",
+          "titulo": "Mate gelado",
+          "subtitulo": "Com limão",
+          "preco": 6,
+          "obs": null,
+          "tags": [],
+          "declarado": []
+        }
+      ]
+    },
+    {
+      "id": "expendente",
+      "nome": "Tapioca da Gávea (exemplo)",
+      "tipo": "Lanches",
+      "local": "Pilotis (exemplo)",
+      "exemplo": true,
+      "status": "pendente",
+      "itens": [
+        {
+          "categoria": "Tapiocas",
+          "titulo": "Tapioca de coco com leite condensado",
+          "subtitulo": "Doce, feita na hora",
+          "preco": 13.9,
+          "obs": null,
+          "declarado": []
+        }
+      ]
+    }
+  ]
+}
